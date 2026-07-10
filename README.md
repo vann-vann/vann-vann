@@ -89,7 +89,7 @@
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vann-vann&hide_border=true&background=0d1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&stroke=A855F7" width="55%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vann-vann&background=1c2333&border=A855F7&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideNums=ffffff&sideLabels=A855F7&dates=8b949e&stroke=A855F7&border_radius=12" width="55%"/>
 
 </div>
 
