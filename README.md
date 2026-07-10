@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A148C,100:A855F7&height=200&section=header&text=Tith%20Ang%20Monyvann&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%7C%20Vue.js%20and%20Node.js%20Specialist&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:35495E,100:42B883&height=200&section=header&text=Tith%20Ang%20Monyvann&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Full%20stack%20Developer%20%7C%20Vue.js%20Enthusiast%20Node.js%20Express&descAlignY=55&descSize=18" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Building+scalable+web+applications+with+Vue.js;Engineering+REST+APIs+with+Node.js+%2B+Express;Focused+on+clean%2C+maintainable+code." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=42B883&center=true&vCenter=true&width=520&lines=Building+responsive+web+apps+with+Vue.js;Learning+Node.js+%2B+Express+%2B+REST+APIs;Clean+code%2C+one+step+at+a+time." alt="Typing SVG" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=vann-vann&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/vann-vann?label=FOLLOWERS&style=for-the-badge&color=a855f7"/>
+<img src="https://komarev.com/ghpvc/?username=vann-vann&color=42b883&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/vann-vann?label=FOLLOWERS&style=for-the-badge&color=42b883"/>
 
 <br><br>
 
@@ -33,17 +33,17 @@
 <tr>
 <td width="55%" valign="top">
 
-- 🎓 Final-year **Computer Science** student with hands-on full-stack development experience
+- 🎓 Final-year **Computer Science** student
 - 🏅 **Gen2 Scholarship** graduate — ANT Technology Training Center
-- 🖥️ Specialize in building responsive, production-ready web applications with **Vue.js**
-- 🌱 Currently strengthening backend expertise in **Node.js, Express.js & REST API design**
-- ✨ Committed to writing clean, maintainable, and well-documented code
-- 💬 Happy to discuss **Vue 3, Pinia, and REST API integration**
+- 🖥️ Passionate about building responsive web apps with **Vue.js**
+- 🌱 Currently deepening my skills in **Node.js, Express.js & REST APIs**
+- ✨ Focused on clean, maintainable code and constant improvement
+- 💬 Ask me about **Vue 3, Pinia, and REST API integration**
 
 </td>
 <td width="45%" align="center">
 
-<img src="https://i.pinimg.com/736x/4e/03/87/4e03872d7166cc5ed92c490708af3261.jpg" width="320"/>
+<img src="https://camo.githubusercontent.com/93c3437d7a922b71881c8953f06a21e400100084b68d353179087ff70e2bc536/68747470733a2f2f77686f736172676879612e6e65746c6966792e6170702f636f6e74656e742f67697068792e676966" width="320"/>
 
 </td>
 </tr>
@@ -102,7 +102,7 @@
 <td width="50%">
 
 ### 🏠 Room Rental Management System
-A full-stack platform enabling landlords to manage rooms, tenants, payments, financial reports, and maintenance requests through a centralized dashboard.
+Web-based platform for landlords to manage rooms, tenants, payments, reports, and maintenance.
 
 **Stack:** Vue.js • Node.js • Express • MySQL
 
@@ -114,7 +114,7 @@ A full-stack platform enabling landlords to manage rooms, tenants, payments, fin
 <td width="50%">
 
 ### 📰 Dev Tech News Platform
-A technology news platform featuring a responsive UI, dynamic search, and REST API integration for real-time content delivery.
+Technology news platform with responsive UI, search, and REST API integration.
 
 **Stack:** Vue.js • JavaScript • REST API
 
@@ -132,7 +132,7 @@ A technology news platform featuring a responsive UI, dynamic search, and REST A
 
 ## ☕ Thanks for visiting!
 
-> "Every bug is a lesson, every line of code is progress."
+> "Step by step, one step one problem, one solution, one lesson."
 > — Tith Ang Monyvann
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:42B883,100:35495E&height=120&section=footer" width="100%"/>
