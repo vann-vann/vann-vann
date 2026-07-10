@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:35495E,100:42B883&height=200&section=header&text=Tith%20Ang%20Monyvann&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%7C%20Vue.js%20and%20Node.js%20Specialist&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A148C,100:A855F7&height=200&section=header&text=Tith%20Ang%20Monyvann&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%7C%20Vue.js%20and%20Node.js%20Specialist&descAlignY=55&descSize=18" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=42B883&center=true&vCenter=true&width=650&lines=Building+scalable+web+applications+with+Vue.js;Engineering+REST+APIs+with+Node.js+%2B+Express;Focused+on+clean%2C+maintainable+code." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Building+scalable+web+applications+with+Vue.js;Engineering+REST+APIs+with+Node.js+%2B+Express;Focused+on+clean%2C+maintainable+code." alt="Typing SVG" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=vann-vann&color=42b883&style=for-the-badge&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/vann-vann?label=FOLLOWERS&style=for-the-badge&color=42b883"/>
+<img src="https://komarev.com/ghpvc/?username=vann-vann&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/vann-vann?label=FOLLOWERS&style=for-the-badge&color=a855f7"/>
 
 <br><br>
 
@@ -43,7 +43,7 @@
 </td>
 <td width="45%" align="center">
 
-<img src="https://camo.githubusercontent.com/93c3437d7a922b71881c8953f06a21e400100084b68d353179087ff70e2bc536/68747470733a2f2f77686f736172676879612e6e65746c6966792e6170702f636f6e74656e742f67697068792e676966" width="320"/>
+<img src="https://i.pinimg.com/736x/4e/03/87/4e03872d7166cc5ed92c490708af3261.jpg" width="320"/>
 
 </td>
 </tr>
