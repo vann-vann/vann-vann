@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=42B883&center=true&vCenter=true&width=520&lines=Building+scalable+web+applications+with+Vue.js;Engineering+REST+APIs+with+Node.js+%2B+Express;Focused+on+clean%2C+maintainable+code." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=42B883&center=true&vCenter=true&width=650&lines=Building+scalable+web+applications+with+Vue.js;Engineering+REST+APIs+with+Node.js+%2B+Express;Focused+on+clean%2C+maintainable+code." alt="Typing SVG" />
 
 <br><br>
 
