@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:35495E,100:42B883&height=200&section=header&text=Tith%20Ang%20Monyvann&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%7C%20Vue.js%20%26%20Node.js%20Specialist&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:35495E,100:42B883&height=200&section=header&text=Tith%20Ang%20Monyvann&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%7C%20Vue.js%20and%20Node.js%20Specialist&descAlignY=55&descSize=18" width="100%"/>
 
 <br>
 
@@ -132,7 +132,7 @@ A technology news platform featuring a responsive UI, dynamic search, and REST A
 
 ## ☕ Thanks for visiting!
 
-> "Step by step, one step one problem, one solution, one lesson."
+> "Every bug is a lesson, every line of code is progress."
 > — Tith Ang Monyvann
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:42B883,100:35495E&height=120&section=footer" width="100%"/>
