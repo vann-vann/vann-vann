@@ -84,12 +84,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vann-vann&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vann-vann&layout=compact&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9" width="30%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vann-vann&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vann-vann&layout=compact&theme=vue-dark&hide_border=true" width="30%"/>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vann-vann&background=1c2333&border=A855F7&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideNums=ffffff&sideLabels=A855F7&dates=8b949e&stroke=A855F7&border_radius=12" width="55%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vann-vann&theme=vue-dark&hide_border=true" width="55%"/>
 
 </div>
 
@@ -135,6 +135,6 @@ A technology news platform featuring a responsive UI, dynamic search, and REST A
 > "Every bug is a lesson, every line of code is progress."
 > — Tith Ang Monyvann
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:4A148C&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:42B883,100:35495E&height=120&section=footer" width="100%"/>
 
 </div>
