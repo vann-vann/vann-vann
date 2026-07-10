@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:35495E,100:42B883&height=200&section=header&text=Tith%20Ang%20Monyvann&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Full%20stack%20Developer%20%7C%20Vue.js%20Enthusiast%20Node.js%20Express&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:35495E,100:42B883&height=200&section=header&text=Tith%20Ang%20Monyvann&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%7C%20Vue.js%20%26%20Node.js%20Specialist&descAlignY=55&descSize=18" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=42B883&center=true&vCenter=true&width=520&lines=Building+responsive+web+apps+with+Vue.js;Learning+Node.js+%2B+Express+%2B+REST+APIs;Clean+code%2C+one+step+at+a+time." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=42B883&center=true&vCenter=true&width=520&lines=Building+scalable+web+applications+with+Vue.js;Engineering+REST+APIs+with+Node.js+%2B+Express;Focused+on+clean%2C+maintainable+code." alt="Typing SVG" />
 
 <br><br>
 
@@ -33,12 +33,12 @@
 <tr>
 <td width="55%" valign="top">
 
-- 🎓 Final-year **Computer Science** student
+- 🎓 Final-year **Computer Science** student with hands-on full-stack development experience
 - 🏅 **Gen2 Scholarship** graduate — ANT Technology Training Center
-- 🖥️ Passionate about building responsive web apps with **Vue.js**
-- 🌱 Currently deepening my skills in **Node.js, Express.js & REST APIs**
-- ✨ Focused on clean, maintainable code and constant improvement
-- 💬 Ask me about **Vue 3, Pinia, and REST API integration**
+- 🖥️ Specialize in building responsive, production-ready web applications with **Vue.js**
+- 🌱 Currently strengthening backend expertise in **Node.js, Express.js & REST API design**
+- ✨ Committed to writing clean, maintainable, and well-documented code
+- 💬 Happy to discuss **Vue 3, Pinia, and REST API integration**
 
 </td>
 <td width="45%" align="center">
@@ -102,7 +102,7 @@
 <td width="50%">
 
 ### 🏠 Room Rental Management System
-Web-based platform for landlords to manage rooms, tenants, payments, reports, and maintenance.
+A full-stack platform enabling landlords to manage rooms, tenants, payments, financial reports, and maintenance requests through a centralized dashboard.
 
 **Stack:** Vue.js • Node.js • Express • MySQL
 
@@ -114,7 +114,7 @@ Web-based platform for landlords to manage rooms, tenants, payments, reports, an
 <td width="50%">
 
 ### 📰 Dev Tech News Platform
-Technology news platform with responsive UI, search, and REST API integration.
+A technology news platform featuring a responsive UI, dynamic search, and REST API integration for real-time content delivery.
 
 **Stack:** Vue.js • JavaScript • REST API
 
@@ -133,7 +133,7 @@ Technology news platform with responsive UI, search, and REST API integration.
 ## ☕ Thanks for visiting!
 
 > "Step by step, one step one problem, one solution, one lesson."
-> — Thorn Rithy
+> — Tith Ang Monyvann
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:42B883,100:35495E&height=120&section=footer" width="100%"/>
 
